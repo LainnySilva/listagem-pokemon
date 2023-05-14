@@ -1,0 +1,15 @@
+/*Pesquisar por código reset css*/
+/* 
+"*" estiliza todas as tags html 
+*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+}
